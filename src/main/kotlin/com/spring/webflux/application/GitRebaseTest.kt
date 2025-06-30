@@ -5,5 +5,4 @@ package com.spring.webflux.application
  */
 class GitRebaseTest {
     val first = "first commit"
-    val second = "second commit"
 }
