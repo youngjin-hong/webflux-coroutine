@@ -6,4 +6,5 @@ package com.spring.webflux.application
 class GithubTest {
     val first = "1"
     val second = "2"
+    val third = "3"
 }
